@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Islam Zaky</h1>
 <h3 align="center">Mobile Application Developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=islam-zaky&label=Profile%20views&color=0e75b6&style=flat" alt="islam-zaky" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-zaky&label=Profile%20views&color=0e75b6&style=flat" alt="islam-zaky" /> </p>
-
+<br>
+<br>
 
 
 - 🌱 I’m currently learning **Flutter**
